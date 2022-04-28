@@ -755,4 +755,26 @@ header .nav ul li:hover {
   font-size: 32px;
   line-height: 19px;
 }
+
+footer {
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(32%, #dbd9d9), color-stop(45%, #b4b4b4), color-stop(72%, #959494));
+  background: linear-gradient(180deg, #dbd9d9 32%, #b4b4b4 45%, #959494 72%);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -ms-flex-line-pack: center;
+      align-content: center;
+  height: 15rem;
+  width: 100%;
+}
+
+.nosotros ul {
+  list-style-type: none;
+}
+
+.pazioli {
+  margin-top: 40px;
+}
 /*# sourceMappingURL=styles.css.map */

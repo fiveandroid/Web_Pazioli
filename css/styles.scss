@@ -641,3 +641,20 @@ $hover-black-700: #000000;
     font-size: 32px;
     line-height: 19px;
   }
+
+  footer{
+    background: linear-gradient(180deg, rgba(219,217,217,1) 32%, rgba(180,180,180,1) 45%, rgba(149,148,148,1) 72%);
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    height:15rem; 
+    width: 100%;
+  }
+.nosotros ul{
+ list-style-type: none;
+ 
+}
+.pazioli{
+  margin-top: 40px;
+}
+  
